@@ -1,4 +1,4 @@
-- name: leonids
-  descr: "Bacon ipsum dolor sit amet doner meatball jowl short ribs, chicken prosciutto salami frankfurter. Pig drumstick turducken short ribs, brisket meatloaf ham hock shankle andouille corned beef strip steak. Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
+- name: Crawling
+  descr: "크롤링의 대표적 예제인 멜론 크롤링의 코드와 '빅 데이터 분석을 통한 상권 분석:음식업' 프로젝트 당시 작성한 크롤링 코드"
   image: pong.png
-  github: https://github.com/renyuanz/leonids
+  github: https://github.com/Sjisoo/Crawling
